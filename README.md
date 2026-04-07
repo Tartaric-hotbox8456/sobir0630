@@ -25,7 +25,7 @@ A web platform for housing and property listings.
 * 🔍 Search and filtering
 * 👤 User features
 
-🔗 GitHub: https://github.com/yourusername/uzhome
+🔗 GitHub: https://github.com/sobir0630/uzhome
 
 ---
 
@@ -37,7 +37,7 @@ Modern real-time chat UI built with React.
 * 💬 Real-time messaging
 * 🔐 Auth integration
 
-🔗 GitHub: https://github.com/yourusername/instadew-frontend
+🔗 GitHub: https://github.com/sobir0630/instadew-frontend
 
 ---
 
@@ -49,14 +49,14 @@ Scalable backend for real-time chat system.
 * 💬 WebSocket messaging
 * 📡 REST API
 
-🔗 GitHub: https://github.com/yourusername/instadew-backend
+🔗 GitHub: https://github.com/sobir0630/instadew-backend
 
 ---
 
 ## 📫 Contact
 
-* Telegram: @yourusername
-* Email: [your@email.com](mailto:your@email.com)
+* Telegram: @Sobir_06s
+* Email: [mamasoliyevs538@gmail.com](mailto:mamasoliyevs538@gmail.com)
 
 ---
 
