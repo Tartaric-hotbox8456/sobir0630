@@ -1,16 +1,63 @@
-## Hi there 👋
+# 👋 Hi, I'm Sobirjon
 
-<!--
-**sobir0630/sobir0630** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Fullstack Developer
+🚀 I build real-time and scalable web applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills
+
+* Backend: FastAPI, Django
+* Frontend: React, TypeScript
+* Database: PostgreSQL
+* Real-time: WebSocket
+* Tools: Docker, Git
+
+---
+
+## 🚀 Projects
+
+### 🏠 UzHome
+
+A web platform for housing and property listings.
+
+* 🏘️ Property management system
+* 🔍 Search and filtering
+* 👤 User features
+
+🔗 GitHub: https://github.com/yourusername/uzhome
+
+---
+
+### 💬 Instadew Frontend
+
+Modern real-time chat UI built with React.
+
+* ⚡ Fast and responsive interface
+* 💬 Real-time messaging
+* 🔐 Auth integration
+
+🔗 GitHub: https://github.com/yourusername/instadew-frontend
+
+---
+
+### ⚙️ Instadew Backend
+
+Scalable backend for real-time chat system.
+
+* 🔐 JWT authentication
+* 💬 WebSocket messaging
+* 📡 REST API
+
+🔗 GitHub: https://github.com/yourusername/instadew-backend
+
+---
+
+## 📫 Contact
+
+* Telegram: @yourusername
+* Email: [your@email.com](mailto:your@email.com)
+
+---
+
+⭐ Always building and improving real-world projects.
